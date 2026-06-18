@@ -1,0 +1,1895 @@
+
+--- Page 1 ---
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+--- Page 2 ---
+ii 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+TIM PENYUSUN 
+ 
+Pengarah 
+Dekan Fakultas Sains dan Teknologi 
+ 
+Penanggung Jawab 
+Wakil Dekan Bidang Akademik 
+ 
+Ketua 
+Ozzy Secio Riza, M.Kom 
+ 
+Anggota 
+Raju Wandira, M.Kom 
+Ahmad Fauzi, M.T.I 
+Mega Orina Fitri, S.T, M.T 
+Afdhil Hafid, M.Eng 
+Domi Sepri, M.Kom 
+Aulia Arham, M.Eng 
+Muhammad Teguh Brillian, M.T.I 
+Novia Lestari, M.Kom 
+--- Page 3 ---
+iii 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+KATA PENGANTAR 
+ 
+ 
+Puji syukur dipanjatkan ke hadirat Allah SWT, karena berkat rahmat- 
+Nya, maka Panduan Kerja Praktik (KP) Fakultas Sains dan Teknologi UIN 
+Imam Bonjol Padang sudah bisa dirancang. Kerja Praktik merupakan salah 
+satu mata kuliah wajib untuk mahasiswa di Fakultas Sains dan Teknologi 
+UIN Imam Bonjol Padang. Tujuan dari mata kuliah ini adalah untuk 
+memberikan pengalaman langsung di Industri terhadap teori yang telah 
+dipelajari selama masa perkuliahan.  Pelaksanaan mata kuliah ini 
+mewajibkan mahasiswa untuk terjun langsung ke Industri Dalam 
+pelaksanaannya mahasiswa dibimbing oleh seorang dosen pembimbing 
+Kerja Praktik dan pembimbing di lapangan (industri). 
+Panduan ini disusun sebagai acuan dan petunjuk bagi mahasiswa, 
+dosen, maupun pengelola Program Studi tentang berbagai prosedur, syarat 
+dan penilaian Kerja Praktik (KP). Dengan disusunnya Panduan ini maka 
+diharapkan Kerja Praktik dapat dilaksanakan secara sistematis dan 
+komprehensif serta dapat dipertanggung-jawabkan akuntabilitasnya sesuai 
+program yang direncanakan. Kami berharap agar dosen, pengelola 
+Program Studi, dan mahasiwa mengetahui, memahami, dan mentaati 
+semua peraturan dan ketentuan yang tercantum dalam panduan ini. 
+Bilamana ada ketentuan maupun format laporan yang kiranya kurang layak 
+mohon disampaikan kepada Fakultas Sains dan Teknologi sehingga dapat 
+ditindaklanjuti untuk penyempurnaan panduan ini. Segala koreksi dan saran 
+untuk kesempurnaan panduan ini, semoga pelaksanaan kegiatan program 
+dapat dilaksanakan lebih lancar untuk mencapai visi dan misi Fakultas 
+Sains dan Teknologi UIN Imam Bonjol Padang. 
+ 
+Padang, Maret 2022 
+ 
+Dekan Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+       Nurus Shalihin, M.Si., Ph.D. 
+       196911192003121001 
+        
+
+--- Page 4 ---
+iv 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+DAFTAR ISI 
+TIM PENYUSUN ................................ ................................ ................................ .. ii 
+KATA PENGANTAR ................................ ................................ ............................ iii 
+DAFTAR ISI ................................ ................................ ................................ ........ iv 
+DAFTAR TABEL ................................ ................................ ................................ . vi 
+DAFTAR GAMBAR ................................ ................................ ............................. vii 
+DAFTAR LAMPIRAN ................................ ................................ ......................... viii 
+BAB I PENDAHULUAN ................................ ................................ ........................ 1 
+A. Pengertian ................................ ................................ ............................. 1 
+B. Latar Belakang ................................ ................................ ...................... 1 
+C. Ruang Lingkup Kerja Praktik................................ ................................ .. 1 
+D. Manfaat Program Kerja Praktik ................................ ..............................  2 
+BAB II PELAKSANAAN PROGRAM KERJA PRAKTIK ................................ ........ 3 
+A. Ketentuan Pelaksanaan Kerja Praktik ................................ .................... 3 
+B. Waktu Pelaksanaan Kerja Praktik ................................ .......................... 3 
+C. Tempat Pelaksanaan Kerja Praktik ................................ ........................ 3 
+D. Syarat Seminar Kerja Praktik ................................ ................................ . 4 
+E. Tata Tertib Kerja Praktik ................................ ................................ ........ 4 
+BAB III PROSEDUR PENDAFTARAN, PELAKSANAAN DAN SEMINAR KERJA 
+PRAKTIK ................................ ................................ ................................ ............. 5 
+A. Prosedur Pendaftaran ................................ ................................ ............ 5 
+B. Pembekalan Kerja Praktik ................................ ................................ ...... 5 
+C. Prosedur Pengajuan Proposal ................................ ...............................  6 
+D. Prosedur Pelaksanaan Kegiatan ................................ ............................ 7 
+E. Prosedur Seminar Kerja Praktik ................................ ............................. 9 
+BAB IV BIMBINGAN KERJA PRAKTIK ................................ ..............................  11 
+A. Dosen Pembimbing ................................ ................................ ............. 11 
+B. Pembimbing dari Perusahaan/ Industri/ Instansi (Supervisor) .............. 11 
+BAB V SISTEMATIKA PENULISAN PROPOSAL DAN LAPORAN .................... 13 
+A. Proposal ................................ ................................ ..............................  13 
+B. Laporan ................................ ................................ ...............................  14 
+BAB VI PETUNJUK PENYUSUNAN LAPORAN ................................ ................ 19 
+A. Petunjuk Umum ................................ ................................ ................... 19 
+--- Page 5 ---
+v 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+B. Aturan Pengetikan ................................ ................................ ............... 19 
+A. Tujuan ................................ ................................ ................................ . 23 
+B. Sasaran Penilaian ................................ ................................ ............... 23 
+C. Bidang yang Dinilai ................................ ................................ .............. 23 
+D. Aspek yang Dinilai dan Pelaksanaan ................................ ................... 23 
+E. Mengulang Kerja Praktik ................................ ................................ ...... 24 
+BAB VIII KETENTUAN LAIN – LAIN ................................ ................................ .. 25 
+A. Format Laporan ................................ ................................ ................... 25 
+B. Jumlah Laporan ................................ ................................ ................... 25 
+LAMPIRAN 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 6 ---
+vi 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+DAFTAR TABEL 
+Tabel 5. 1. Penjelasan sistematika proposal ............................................ 14 
+Tabel 5. 2. Penjelasan Sistematika Laporan KP ...................................... 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 7 ---
+vii 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+DAFTAR GAMBAR 
+Gambar 3. 1. Alur Pengajuan Proposal KP .................................................7 
+Gambar 3. 2. Alur Pelaksanaan Kerja Praktik .............................................9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 8 ---
+viii 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+DAFTAR LAMPIRAN 
+Lampiran 1. Cover Proposal KP ............................................................... 26 
+Lampiran 2. Cover Laporan KP ................................................................ 27 
+Lampiran 3. Lembaran Pengesahan Poposal .......................................... 28 
+Lampiran 4 Lembaran Pengesahan Laporan ........................................... 29 
+Lampiran 5 Form Bimbingan .................................................................... 29 
+Lampiran 6 Daftar Hadir Kegiatan Harian ................................................ 30 
+Lampiran 7 Lembaran Nilai Supervisor .................................................... 32 
+Lampiran 8 Berita Acara Seminar KP ...................................................... 34 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 9 ---
+1 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+BAB I PENDAHULUAN 
+ 
+A. Pengertian 
+Kerja praktik merupakan sistem pelatihan kerja yang dilakukan secara 
+terpadu di tempat ker ja praktik seperti perusahaan, industri atau instansi 
+dengan bekerja langsung di bawah bimbingan dan pengawasan instruktur 
+atau pekerja yang lebih berpengalaman dalam rangka menerapkan ilmu 
+pengetahuan dan teknologi yang sudah dipelajari serta sebagai upaya untuk 
+menguasai keterampilan baru atau keahlian tertentu. 
+Buku panduan Kerja Praktik ini merupakan petunjuk pelaksanaan Kerja 
+Praktik yang berlaku pada Fakultas Sains dan Teknologi dan harus 
+dipedomani oleh mahasiswa selama proses Kerja Praktik. 
+B. Latar Belakang 
+Kerja Praktik merupakan merupakan salah satu mata kuliah wajib yang 
+harus ditempuh oleh setiap mahasiswa di Fakutas Sains dan Teknologi UIN 
+Imam Bonjol Padang sebagai syarat untuk mengambil matakuliah skripsi. 
+tujuan Kerja Praktik adalah un tuk memberikan kesempatan kepada 
+mahasiswa agar bersentuhan langsung dengan dunia kerja agar dapat 
+menerapkan pengetahuan yang didapat selama perkuliahan sehingga 
+mahasiswa memiliki kemampuan secara profesional dalam menyelesaikan 
+masalah-masalah dibidang teknologi informasi dan dapat mengetahui 
+aplikasi-aplikasi yang digunakan untuk dapat menyelesaikan permasalahan- 
+permasalahan tersebut. 
+C. Ruang Lingkup Kerja Praktik 
+Kerja Praktik dilakukan di sebuah institusi seperti perusahaan 
+manufaktur maupun jasa, labo ratorium, dan institusi pendidikan yang 
+bergerak dibidang sains dan teknologi. 
+1. Kerja Praktik merupakan penugasan kepada mahasiswa pada sebuah 
+institusi dalam waktu yang telah ditentukan 
+2. Kerja Praktik dilaksanakan pada sebuah organisasi, institusi, lembaga 
+pemerintahan atau swasta. 
+3. Biaya yang ditimbulkan dari proses Kerja Praktik yang dilakukan oleh 
+mahasiswa bukan menjadi tanggung jawab dari program studi 
+4. Kerja Praktik dapat dilakukan dalam bentuk kegiatan yang berhubungan 
+dengan keilmuan program studi dan dapat dipertanggungjawabkan serta 
+disetujui oleh ketua prodi. 
+5. Penyusunan laporan Kerja Praktik tidak hanya merupakan penjabaran dari 
+kegiatan Kerja Praktik yang telah dilakukan tetapi juga merupakan analisa 
+masalah yang ada di tempat Kerja Praktik serta me mberikan solusi yang 
+tepat untuk penyelesaian permasalahan tersebut (dapat berupa usulan 
+sistem). 
+--- Page 10 ---
+2 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+D. Manfaat Program Kerja Praktik 
+1. Manfaat Kerja Praktik bagi Program Studi 
+a. Salah satu sarana berinteraksi antara program studi dengan mitra Kerja 
+Praktik. 
+b. Perluasan sosialisasi keberadaan Program studi yang terkait dengan 
+kelembagaan, bidang keilmuan yang dikembangkan, dan sumber daya 
+manusia yang dimiliki. 
+c. Meningkatkan, memperluas, dan mempererat kerjasama Perusahaan/ 
+Industri/ Instansi melalui rintisan mahasiswa Kerja Praktik. 
+2. Manfaat Kerja Praktik bagi mahasiswa 
+a. Sebagai sarana mengaplikasikan ilmu ke dunia kerja. 
+b. Sarana mengetahui dan mempelajari proses dalam dunia industri. 
+c. Mengetahui kebutuhan pekerjaan di tempat Kerja Praktik. 
+d. Dapat menyiapkan diri dalam menghadapi lingkungan kerja setelah 
+menyelesaikan studi. 
+e. Dapat menggunakan hasil atau data - data yang diperoleh selama Kerja 
+Praktik untuk dikembangkan menjadi skripsi. 
+f. Dapat meningkatkan kemampuan dalam melakukan analisis 
+permasalahan. 
+3. Manfaat Kerja Praktik bagi mitra Kerja Praktik 
+a. Mengidentifikasi calon pegawai sejak dini. 
+b. Memperoleh kesempatan kepada Perusahaan/ Industri/ Instansi untuk 
+berpartisipasi dalam mempersiapkan tenaga kerja yang siap pakai. 
+c. Memperoleh kesempatan untuk ikut serta dalam membangun kualitas 
+tenaga kerja. 
+--- Page 11 ---
+3 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB II PELAKSANAAN PROGRAM KERJA PRAKTIK  
+ 
+A. Ketentuan Pelaksanaan Kerja Praktik 
+Bagian ini menjelaskan tentang persyaratan yang harus dipenuhi oleh 
+mahasiswa program studi untuk dapat mengikuti Kerja Praktik. Ketentuan 
+Kerja Praktik sebagai berikut: 
+1. Mahasiswa 
+Peserta adalah mahasiswa FST yang memenuhi persyaratan tertentu dan 
+kegiatan Kerja Praktik dilaksanakan secara individu. Mahasiswa yang 
+berhak mengikuti Kerja Praktik harus memenuhi syarat -syarat sebagai 
+berikut : 
+a. Tercatat sebagai mahasiswa aktif pada Fakultas Sains dan Teknologi 
+yang dibuktikan dengan kartu mahasiswa atau status aktif dalam sistem 
+akademik universitas. 
+b. Telah lulus minimal 90 SKS dengan minimal IPK 2.75 
+c. Tempat yang dipilih disesuaikan dengan bidang keahlian Program 
+Studi. 
+d. Mahasiswa telah mengikuti pembekalan Kerja Praktik yang diberikan 
+oleh pihak program studi 
+2. Status dan Beban Akademik 
+a. Kerja Praktik adalah mata kuliah wajib dengan beban akademik 
+minimal 4 SKS. 
+b. Kegiatan Kerja Praktik dilaksanakan selama minimal 40 hari kerja. 
+3. Pembimbing Kerja Praktik 
+a. Dosen Pembimbing 
+b. Supervisor 
+B. Waktu Pelaksanaan Kerja Praktik 
+1. Waktu pelaksanaan Kerja Praktik disesuaikan dengan kegiatan di 
+perusahaan/ industri/ instansi. 
+2. Kegiatan Kerja Praktik dilaksanakan selama minimal 40 hari kerja. 
+3. Jadwal Kerja Praktik dan seminar kerja praktik ditetapkan di Program Studi 
+masing-masing. 
+4. Seluruh rangkaian pelaksanaan Kerja Praktik adalah selama maksimal 
+enam bulan dimulai dari perencanaan dan pendaftara, pelaksanaan Kerja 
+Praktik di industri hingga penyelesaian laporan dan seminar. 
+C. Tempat Pelaksanaan Kerja Praktik 
+Tempat pelaksanaan Kerja Praktik ditentukan oleh mahasiswa dengan 
+syarat - syarat sebagai berikut : 
+1. Perusahaan/ Industri/ Instansi yang telah memiliki sistem administrasi 
+tertib dan baik. 
+2. Diutamakan Perusahaan/ Industri/ Instansi yang bergerak di bidang yang 
+sesuai dengan program studi. 
+3. Mendapatkan persetujuan dari Ketua Prodi. 
+--- Page 12 ---
+4 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+D. Syarat Seminar Kerja Praktik 
+1. Laporan Kerja Praktik yang telah disetujui dan ditandatangani oleh 
+pembimbing. 
+2. Laporan KP terdiri dari: 
+a. Laporan Akhir 
+b. Form konsultasi dengan dosen pembimbing 
+c. Form penliaian dari Perusahaan/ Industri/ Instansi tempat KP. 
+E. Tata Tertib Kerja Praktik 
+Untuk mendukung kelancaran dalam menjalankan Kerja Praktik di suatu 
+Perusahaan/ Industri/ Instansi, mahasiswa hendaknya mematuhi dan 
+mentaati tata tertib baik yang dibuat oleh fakultas maupun tata tertib di tempat 
+Kerja Praktik, antara lain: 
+1. Tempat dan waktu pelaksanaan harus sesuai dengan yang sudah 
+disepakati. 
+2. Mentaati segala kebutuhan dan tidak melanggar aturan yang ditetapkan 
+oleh Perusahaan/ Industri/ Instansi, ter masuk menjaga kerahasiaan 
+Perusahaan/ Industri/ Instansi. 
+3. Melaksanakan seluruh tugas yang diberikan oleh Perusahaan/ Industri/ 
+Instansi dengan sebaik – baiknya sesuai dengan waktu yang diberikan. 
+4. Berlatih menumbuhkan kemampuan untuk memadukan dengan baik 
+antara arahan pembimbing lapangan dengan inisiatif dan kemandirian 
+dalam menyelesaikan tugas. 
+5. Berlatih menumbuhkan kapabilitas dan profesionalitas dalam bekerja. 
+6. Setiap kegiatan pelaksanaan Kerja Praktik mahasiswa harus mengisi 
+logbook atau daftar kegiatan Kerja Praktik yang ditandatangai oleh 
+pembimbing lapangan/ industri dan disahkan oleh pejabat industri 
+dengan membubuhkan cap /stempel perusahaan. 
+7. Mahasiswa harus berpakaian bersih dan rapi memakai kemeja, tidak 
+berpakaian ketat dan harus memakai sepatu tertutup dan sesuai dengan 
+tata tertib tempat Kerja Praktik. 
+8. Mahasiswa wajib menjaga nama baik almamater Universitas Islam 
+Negeri Imam Bonjol Padang. 
+9. Mahasiswa harus menggunakan tanda pengenal. 
+10. Mahasiswa harus hadir sesuai dengan jadwal jam kerja tempat Kerja 
+Praktik. 
+11. Mahasiswa dilarang merokok, meminum minuman keras, membawa 
+senjata tajam di lingkungan Kerja Praktik. 
+12. Mahasiswa harus menjaga kebersihan, keindahan, dan kerapian. 
+13. Mahasiswa harus menjaga etika, sopan santun, ketenangan, ketertiban, 
+dan ketentraman tempat Kerja Praktik. 
+14. Mahasiswa harus mematuhi tata tertib tempat Kerja Praktik . 
+15. Pelanggaran terhadap tata tertib akan dikenakan sanksi. 
+16. Hal-hal lain dapat menyesuaikan dengan kondisi di tempat Kerja Praktik. 
+--- Page 13 ---
+5 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB III PROSEDUR PENDAFTARAN, PELAKSANAAN DAN 
+SEMINAR KERJA PRAKTIK 
+ 
+A. Prosedur Pendaftaran 
+Mahasiswa yang dibolehkan mengikuti Kerja Praktik adalah mahasiswa yang 
+telah memenuhi persyaratan sebagai berikut : 
+1. Terdaftar sebagai mahasiswa Fakultas Sains dan Teknologi UIN Imam 
+Bonjol Padang yang dibuktikan dengan kartu mahasiswa atau status aktif 
+dalam sistem akademik universitas. 
+2. Mahasiswa yang akan melaksanakan kerja praktik minimal telah lulus 90 
+SKS. 
+3. Indeks Prestasi Kumulatif (IPK) minimal 2,75 pada waktu mendaftar 
+Kerja Praktik. 
+4. Telah mengikuti pembekalan Kerja Praktik yang dilaksanakan oleh 
+program studi. 
+5. Mahasiswa menemui dosen Penasihat Akademik (PA) tentang 
+pemenuhan SKS dan diteruskan ke ketua prodi un tuk diseleksi dan 
+didaftarkan untuk kegiatan Kerja Praktik. 
+6. Mahasiswa mendaftar Kerja Praktik secara offline/online. 
+ 
+B. Pembekalan Kerja Praktik 
+Pembekalan merupakan pengarahan teknis yang diberikan kepada 
+mahasiswa peserta Kerja Praktik. Pembekalan dapat dilakukan oleh program 
+studi sebelum pelaksanaan Kerja Praktik. Pembekalan Kerja Praktik 
+dimaksudkan untuk menambah wawasan yang terkait dengan kegiatan hal – 
+hal yang menunjang kegiatan dan ketercapaian tujuan kegiatan Kerja 
+Praktik. Mencakup wawasan kelembagaan, substansi Kerja Praktik, 
+keselamatan kerja, etika kerja, etika sosial, pemilihan topik bahasan, 
+administrasi kegiatan, dan tata cara penulisan laporan. 
+1. Tujuan Pembekalan 
+Pembekalan bagi mahasiswa diselenggarakan dengan tujuan agar 
+a. Mahasiswa dapat menghayati maksud dan tujuan Kerja Praktik. 
+b. Mahasiswa memiliki pengetahuan etika dalam berprilaku di 
+perusahaan /industry/ instansi. 
+c. Mahasiswa mendapat bekal pengetahuan tentang cara menganalisis 
+permasalahan dan cara – cara pemecahannya. 
+d. Mahasiswa mampu bekerja dalam satu tim dengan karyawan di 
+perusahaan /Industri/ instansi. 
+2. Jadwal Pembekalan 
+Pelaksanaan pembekalan dilaksanakan selama sehari. Jadwal 
+pelaksanaan pembekalaan ditentukan oleh Program Studi. 
+3. Materi Pembekalan 
+--- Page 14 ---
+6 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Pada tahap ini diberikan pengarahan dan pembekalan terkait persiapan, 
+pelaksanaan, dan pasca pelaksanaan Kerja Praktik. Materi pembekalan 
+terdiri dari yaitu: 
+a. Gambaran  umum  tentang  dunia  kerja,  khususnya  Perusahaan 
+/Industri/ Instansi. 
+b. Kebijakan Kerja Praktik. 
+c. Etika dalam bersikap di dunia kerja. 
+d. Administrasi kegiatan Kerja Praktik. 
+e. Gambaran teknis pelaksanaan yang mengacu pada tujuan Kerja 
+Praktik 
+f. Bidang ilmu yang ditekuni menunjang kegiatan Kerja Praktik. 
+4. Tata tertib pembekalan 
+a. Mahasiswa peserta Kerja Praktik wajib mengikuti semua kegiatan 
+pembekalaan yang telah ditentukan sesuai dengan jadwal dan atau 
+perubahan atau tambahannya. 
+b. Setiap sesi kegiatan pembekalan dilakukan presensi yang harus 
+ditandatangai oleh mahasiswa. 
+c. Selama mengikuti pembekalan, mahasiswa wajib menjaga 
+ketertiban, berpakaian sopan dan rapi serta bersikap tenang. 
+ 
+C. Prosedur Pengajuan Proposal 
+Setiap mahasiswa yang telah memenuhi persyaratan untuk mengambil mata 
+kuliah Kerja Praktik dapat mengajukan proposal Kerja Praktik ke perusahaan, 
+industri atau instansi. Hal ini bertujuan kualitas hasil Kerja Praktik dapat 
+dicapai semaksimal mungkin. Proposal dibuat sebagai bentuk rencana 
+pelaksanaan selama mahasiswa berada di lokasi yang telah disesuaikan 
+dengan arahan/ penugasan dari perusahaan, i ndustri atau instansi. Berikut 
+prosedur pengajuan proposal : 
+1. Mahasiswa menentukan sendiri dan mencari sendiri Perusahaan/ 
+Industri/ Instansi. 
+2. Mahasiswa membuat proposal yang sesuai dengan ketentuan yang ada 
+dalam panduan ini. 
+3. Mahasiswa mengajukan proposal ke Prodi untuk disetujui. 
+4. Prodi mengesahkan proposal dan membuat surat permohonan 
+pengantar mahasiswa Kerja Praktik ke Fakultas. 
+5. Fakultas mengeluarkan surat pengantar mahasiswa Kerja Praktik ke 
+Perusahaan/ Industri/ Instansi. 
+6. Mahasiswa mengantar proposal yang telah disetujui beserta surat 
+pengantar ke Perusahaan/ Industri/ Instansi. 
+--- Page 15 ---
+7 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Gambar 3. 1. Alur Pengajuan Proposal KP 
+Alur kegiatan pengajuan proposal KP dapat dilihat pada gambar dibawah ini 
+D. Prosedur Pelaksanaan Kegiatan 
+1. Mahasiswa terlebih dahulu telah mendapatkan konfirmasi dari 
+perusahaan, industri atau instansi telah menerima dan menyetujui 
+pelaksanaan Kerja Praktik sesuai dengan waktu pelaksanaan yang 
+ditentukan oleh pihak perusahaan, industri atau instansi. Hal ini 
+dibuktikan dengan surat penerimaan dari perusahaan/ industri/ instansi 
+yang dikirimkan ke mahasiswa yang bersangkutan. 
+2. Apabila jawaban (konfirmasi) berupa ketidaksediaan  oleh Perusahaan, 
+Industri atau Instansi, mahasiswa kembali mengulang pengajuan 
+proposal dengan Perusahaan, Industri atau Instansi yang baru. 
+3. Sedangkan yang sudah diterima mahasiswa menyerahkan surat 
+penerimaan ke Prodi untuk di konfirmasi. 
+4. Program Studi akan mengkonfirmasi surat penerimaan dari perusahaan 
+dan membuat surat permohonan pengiriman mahasiswa untuk Kerja 
+Praktik ke Fakultas dan permohonan surat tugas dosen pembimbing. 
+5. Mahasiswa mendapatkan surat pengiriman mahasiswa untuk Kerja 
+Praktik dari Fakultas beserta surat tugas dosen pembimbing. 
+--- Page 16 ---
+8 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+6. Mahasiswa datang ke Perusahaan, Industri atau Instansi dengan 
+membawa surat pengiriman mahasiswa untuk Kerja Praktik dari Fakultas 
+dan melaksanakan Kerja Praktik sesuai dengan jadwal yang telah 
+diberikan oleh Perusahaan, Industri atau Instansi. 
+7. Mahasiswa dapat melakukan kegiatan secara penuh waktu atau paruh 
+waktu sesuai dengan ketentuan dari Perusahaan, Industri atau Instansi. 
+8. Mahasiswa dapat berkonsultasi dengan dosen pembimbing selama 
+pelaksanaan kegiatan. 
+9. Materi kegiatan dapat menyesuaikan dengan kebutuhan perusahaan/ 
+industri/ instansi selama tidak menyimpang dari ruang lingkup materi 
+Kerja Praktik program studi. 
+10. Mahasiswa mentaati semua peraturan yang berlaku di Perusahaan, 
+Industri atau Instansi. 
+11. Mahasiswa menyusun jadwal kegiatan dan membuat logbook dengan 
+berkonsultasi kepada pembimbing lapangan di Perusahaan, Industri atau 
+Instansi. 
+12. Mahasiswa mendokumentasikan kegiatan dan berkonsultasi kepada 
+pembimbing lapangan. 
+13. Mahasiswa meminta surat  keterangan dan nilai dari Perusahaan/ 
+Industri/ Instansi. 
+14. Mahasiswa kembali ke kampus apabila waktu pelaksanaan telah selesai. 
+15. Mahasiswa menyusun laporan. 
+16. Mahasiswa melakukan bimbingan penulisan laporan dengan dosen 
+pembimbing setelah kembali dari Perusahaan/ Industri/ Instansi 
+Alur pelaksanaan KP dapat dilihat pada gambar dibawah ini: 
+--- Page 17 ---
+9 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+Gambar 3. 2. Alur Pelaksanaan Kerja Praktik 
+ 
+E. Prosedur Seminar Kerja Praktik 
+Mahasiswa yang mengikuti kegiatan Kerja Praktik harus sudah membuat 
+laporan akhir secara indifidual pada minggu terakhir dari kegiatan. Penulisan 
+laporan harus mengikuti kaidah penulisan yang ada dalam panduan ini. 
+Laporan harus disusun sesuai dengan bimbingan dosen  pembimbing. 
+Proses seminar laporan Kerja Praktik dilaksanakan dengan ketentuan 
+sebagai berikut: 
+1. Mahasiswa yang dapat melakukan seminar adalah mahasiswa yang 
+telah menyelesaikan program Kerja Praktik yang ditunjukkan dengan 
+laporan yang sudah ditandatangan i oleh dosen pembimbing dan form 
+penilaian dari Perusahaan/ Industri/ Instansi. 
+2. Mahasiswa mendaftar ke program studi dengan membawa persetujuan 
+pembimbing yang sudah di tandatangani dan formulir permohonan 
+seminar Kerja Praktik. 
+
+--- Page 18 ---
+10 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+3. Ketua program studi menetapkan dosen penguji seminar Kerja Praktik 
+dengan persetujuan Dekan. 
+4. Ketua program studi menentukan jadwal seminar Kerja Praktik. 
+5. Tim penguji terdiri dari 1 (satu) orang dosen pembimbing dan 1 (satu) 
+orang dosen penguji. 
+6. Mahasiswa harus memakai pakaian yang rapi, sopan dan memakai 
+sepatu (tidak menggunakan kaos oblong, jeans dan sandal) 
+7. Peserta seminar pria wajib memakai kemeja lengan Panjang warna 
+putih, celana panjang wana hitam dan dasi serta jas almamater 
+8. Peserta seminar wanita wajib memakai pakaian muslimah dengan 
+atasan putih dan bawahan rok hitam serta jas almamater. 
+9. Mahasiswa harus menyiapkan file presentasi dalam melakukan 
+presentasi laporan Kerja Praktik. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 19 ---
+11 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB IV BIMBINGAN KERJA PRAKTIK 
+ 
+A. Dosen Pembimbing 
+Syarat menjadi dosen pembimbing 
+1. Memiliki jabatan fungsional akademik minimal asisten ahli. 
+2. Memiliki kualifikasi sesuai dengan bidang keilmuan program studi. 
+3. Merupakan dosen tetap Program Studi di Fakultas Sains dan Teknologi 
+Universitas Islam Negeri Imam Bonjol Padang. 
+4. Bersedia membimbing mahasiswa Kerja Praktik. 
+Tugas dan wewenang dosen pembimbing 
+1. Membimbing mahasiswa dalam melakukan pekerjaannya agar dapat 
+mengimplementasikan keilmuan dalam menyelesaikan masalah di 
+perusahaan/ industri/ instansi. 
+2. Membimbing mahasiswa dalam pembuatan laporan serta memberikan 
+pengesahan terhadap laporan akhir yang dibuat oleh mahasiswa. 
+3. Memberikan catatan-catatan perbaikan pada lembaran bimbingan. 
+4. Memberikan dorongan dan motivasi kepada mahasiswa bimbingan agar 
+dapat menyelesaikan laporan Kerja Praktik tepat pada waktunya. 
+5. Memantau pelaksanaan Kerja Praktik mahasiswa bimbingan baik 
+selama melaksanakan Kerja Praktik maupun dalam penyusunan 
+laporan. 
+6. Memimpin pelaksanaan seminar dan memberikan penilaian yang 
+selanjutnya diserahkan pada program studi dengan aturan yang telah 
+ditetapkan. 
+7. Pergantian dosen pembimbing Kerja Praktik dapat dilakukan atas 
+persetujuan ketua program studi. 
+Pesedur bimbingan 
+1. Batas minimum pelaksanaan bimbingan sebanyak 5x. 
+2. Mahasiswa menandatangani presensi bimbingan yang terdapat pada 
+dosen bembimbing setiap kali melaksanakan bimbingan. 
+3. Mahasiswa wajib membawa lembaran bimbingan setiap melaksanakan 
+bimbingan. 
+ 
+B. Pembimbing dari Perusahaan/ Industri/ Instansi (Supervisor) 
+Pembimbing perusahaan/ industry/ instansi adalah pembimbing yang 
+ditunjuk oleh instansi tempat mahasiswa melaksanakan Kerja Praktik yang 
+bertanggung jawab membimbing mahasiswa selama proses pelaksanaan. 
+Penunjukkan pembimbing lapangan /supervisor mahasiswa di perusahaan/ 
+industry/ instansi dilakukan oleh pemimpin perusahaan atau kepala unit 
+dimana mahasiswa ditempatkan. Supervisor hendaknya telah memenuhi 
+ketentuan sebagai pembimbing lapangan dengan tugas dan wewenang 
+--- Page 20 ---
+12 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+sesuai dengan kebijakan instansi yang bersangkutan. Berikut adalah poin – 
+poin yang diharapkan dari pembimbing lapangan (supervisor): 
+1. Penempatan mahasiswa di unit yang relevan. 
+2. Memberikan pengarahan terhadap pekerjaan yang diberikan ke pada 
+mahasiswa. 
+3. Memberikan persetujuan terhadap proposal yang diajukan mahasiswa. 
+4. Mengawasi kemajuan pekerjaan yang diberikan kepada mahasiswa. 
+5. Mengevaluasi kemajuan yang dicapai oleh mahasiswa selama 
+melaksanakan Kerja Praktik dan persetujuan terhadap laporan akhir yang 
+dibuat oleh mahasiswa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 21 ---
+13 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB V SISTEMATIKA PENULISAN PROPOSAL DAN LAPORAN  
+ 
+A. Proposal 
+Setiap mahasiswa yang akan mengikuti program kegiatan Kerja Praktik (KP) 
+terlebih dahulu harus menulis proposal kegiatan. Proposal adalah dokumen 
+pengantar permohonan kegiatan selain surat yang akan diajukan oleh 
+mahasiswa kepada Perusahaan, Industri atau Instansi yang direncanakan 
+untuk lokasi kerja praktik. Walau tidak semua Perusahaan, Industri atau 
+Instansi mewajibkan unt uk menulis proposal, sebaiknya proposal ini tetap 
+dibuat terlebih dahulu. Hal ini dikarenakan proposal merupakan perencanaan 
+kegiatan yang menjelaskan kegiatan apa yang akan dilakukan saat berada 
+di tempat Kerja Praktik. Usulan proposal ini hendaknya dibuat secara realistis 
+dan komprehensif sehingga tidak dimungkinkan terjadi perubahan saat 
+pelaksanaan di lapangan. Dengan membuat proposal mahasiswa dapat 
+merencanakan materi kegiatan atau bidang kajian yang akan diamati, waktu 
+pelaksanaan sistematika proposal terdiri dari : 
+HALAMAN JUDUL 
+HALAMAN PENGESAHAN 
+IDENTITAS DIRI MAHASISWA 
+KATA PENGANTAR 
+DAFTAR ISI 
+DAFTAR TABEL (jika ada) 
+DAFTAR GAMBAR (jika ada) 
+DAFTAR ISTILAH (jika ada) 
+DAFTAR LAMPIRAN (jika ada) 
+A. LATAR BELAKANG 
+B. FOKUS KEGIATAN 
+C. MATA KULIAH YANG RELEVAN DENGAN KEGIATAN 
+D. AKTIVITAS YANG DAPAT DILAKUKAN 
+E. WAKTU PELAKSANAAN 
+F. PENUTUP 
+G. LAMPIRAN 
+Berikut penjelasan dari sistematika proposal diatas dalam bentuk tabel 
+dibawah ini: 
+--- Page 22 ---
+14 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Tabel 5. 1. Penjelasan sistematika proposal 
+Bagian Penjelasan 
+Judul Judul hendaknya dinyatakan secara singkat tetapi cukup jelas menggambarkan tema 
+pokok yang hendak dikaji dengan memperhatikan batasan kualitatif, kuantitatif, dan 
+sasaran 
+Halaman Pengesahan Pada bagian ini merupakan lembaran persetujuan yang memuat tanda tangan 
+mahasiswa dan Ketua Program Studi(lihat lampiran) 
+Daftar Isi Pada bagian ini merupakan daftar isian dari proposal (Lihat lampiran) 
+Latar Belakang Setiap topik yang disajikan pada usulan proposal harus memiliki latar belakang yang 
+berisi 
+ Mengapa diperlukan kegiatan KP. 
+ Dimana akan dilakukan dan mengapa tempat tersebut yang dipilih. 
+ Kemudian dibagian apa kegiatan yang akan dilakukan. 
+ Mengapa harus dibagian tersebut. 
+Latar belakang ini perlu diuraikan secara jelas dengan sejauh mungkin didukung 
+adanya fakta atau penalaran secara jelas. 
+Perumusan Masalah Masalah yang hendak dikaji hendaknya dirumuskan dalam bentuk pertanyaan yang 
+tegas dan jelas guna menambah ketajaman perumusan dalam laporan. 
+Pada pemecahannnya harus cukup terbatas ruang lingkupnya agar dimungkinkan 
+penyelesaianya seperti dalam batas waktu yang diijinkan. 
+Tujuan Setiap kegiatan hendaknya mempunyai suatu tujuan tertentu seperti 
+ Mengkaji suatu teknologi, 
+ Menerangkan dan membuktikan suatu gejala atau konsep, 
+ Memecahkan suatu masalah, 
+ Merencanakan suatu prototipe atau mengimplementasikan. 
+Uraikan tujuan yang ingin dicapai ketika KP dilaksanakan 
+Relevansi atau manfaat Uraikan secara singkat dan jelas macam macam gagasan yang mungkin bisa 
+dikontribusikan kepada bidang ilmu pengetahuan dan teknologi, atau hal lain 
+menimbulkan inspirasi. 
+Nama Kegiatan Tuliskan nama kegiatan dan judul KP yang akan dilaksanakan 
+Waktu dan Pelaksanaan 
+Kegiatan 
+ Uraikan dengan jelas kapan KP akan dilaksanakan 
+ Di perusahaan mana akan dilaksanakan, disertai alamat yang lengkap, termasuk 
+dibagian mana KP yang akan dilaksanakan 
+Peserta Seluruh peserta kegiatan KP hendaknya disebutkan secara lengkap identitasnya dan 
+masing masing peserta juga harus membubuhkan tanda tangan. Hal ini bertujuan agar 
+mahasiswa merasakan keterlibatan dan bertanggung jawab dari awal hingga akhir 
+pelaksanaan kegiatan 
+Jadwal kegiatan serta 
+alokasi waktunya per 
+hari. 
+Uraikan dengan jelas tahap – tahap kegiatan yang akan dilakukan di tempat kegiatan 
+Lampiran Lampiran, apabila diperlukan (surat -surat pendukung yang diperlukan perusahaan/ 
+industry/ instansi). 
+Proposal yang telah disetujui oleh Program Studi dijilid dengan menggunakan warna 
+biru dan plastik transparan untuk diajukan ke Perusahaan /Industri jika diantar 
+langsung. 
+ 
+B. Laporan 
+Sistematikan laporan terdiri dari dari: 
+a. Bagian I 
+HALAMAN COVER DEPAN 
+HALAMAN COVER DALAM 
+HALAMAN PENGESAHAN LAPORAN KP DENGAN PEMBIMBING 
+DAN PROGRAM STUDI 
+HALAMAN KATA PENGANTAR 
+HALAMAN DAFTAR ISI 
+HALAMAN DAFTAR GAMBAR 
+--- Page 23 ---
+15 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+HALAMAN DAFTAR TABEL 
+HALAMAN DAFTAR SINGKATAN ATAU TANDA 
+HALAMAN DAFTAR LAMPIRAN 
+b. Bagian II 
+BAB I PENDAHULUAN 
+1.1 Gambaran Umum 
+… Gambaran umum dari perusahaan atau instansi tempat 
+melakukan kegiatan 
+1.2 Gambaran Khusus 
+… Gambaran mengenai topik yang akan dibahas pada 
+laporan. 
+1.3 Struktur Organisasi 
+1.4 Tujuan 
+1.5 Ruang Lingkup 
+BAB II TINJAUAN PUSTAKA 
+BAB III PEMBAHASAN 
+3.1 Kegiatan selama Kerja Praktik 
+3.2 Analisis Kebutuhan Perancangan 
+…….. dan seterusnya disesuaikan dengan keperluan 
+BAB IV PENUTUP 
+4.1 Kesimpulan 
+4.2 Saran 
+DAFTAR PUSTAKA 
+c. Bagian III 
+LAMPIRAN 
+Lampiran berisi informasi tambahan yang mendukung kelengkapan 
+laporan namun wajib disertakan, antara lain surat keterangan telah 
+melaksanakan kegiatan dan tempat kegiatan , form aktivitas harian, kartu 
+konsultasi, form penilaian, surat ijin , SK pembimbing, foto dokumentasi 
+di tempat kegiatan, spesifikasi teknis serta data – data lain yang 
+diperlukan serta instrument pengumpulan data (hasil kusioner, 
+wawancara, observasi). 
+Berikut penjelasan sistematika laporan kegiatan KP dapat dilihat pada tabel 
+5.2 dibawah ini 
+ 
+Tabel 5. 2. Penjelasan Sistematika Laporan KP 
+ 
+Bagian Penjelasan 
+Penjelasan Bagaian I 
+Halaman Depan  Halaman ini memuat kata “LAPORAN KERJA PRAKTIK” (dengan huruf Times 
+New Roman 12 , Bold). 
+ Judul ( dengan huruf Times New Roman 12, Bold) hendaknya dibuat singkat tetapi 
+cukup jelas menggambarkan tema pokok dari laporan dan diupayakan tidak 
+menimbulkan pemahaman yang berbeda, 
+ Lambang Universitas Islam Negeri Imam Bonjol Padang (dengan diameter 4 cm), 
+ Nama mahasiswa (dengan huruf Time New Roman 12, Bold ), nama mahasiswa 
+diletakkan di tengah halaman judul, nama tidak boleh disingkat. Angkatan dan NIM 
+diletakkan di bawah nama mahasiswa 
+--- Page 24 ---
+16 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+  Identitas Lembaga yaitu 
+PROGRAM STUDI XXXX 
+FAKULTAS SAINS DAN TEKNOLOGI 
+UIN IMAM BONJOL PADANG. Tahun laporan dibuat dengan huruf Time New 
+Roman 12, Bold. Halaman ini menggunakan kertas buffalo warna biru tua 
+Halaman Sampul Dalam Halaman ini berisi materi yang sama dengan halaman sampul depan, tetapi 
+menggunakan kertas putih. 
+Halaman lembar 
+pengesahan laporan oleh 
+Dosen Pembimbing 
+Halaman ini memuat nama lengkap, NIP dan tanda tangan pembimbing, diketahui 
+Ketua Program Studi 
+Halaman kata Pengantar Halaman ini memuat pengantar dan ucapan terima kasih mahasiswa yang 
+melaksanakan kegiatan 
+ Kepada yang telah membantu dalam melaksanakan kegiatan 
+ Kepada yang telah membantu dalam penyusunan laporan, 
+ Kepada yang memberikan bantuan dalam bentuk keuangan dari pihak tertentu 
+yang dianggap penting dan berperan dalam penyelesaian laporan kegiatan. 
+Halaman ini diketik pada halaman baru dan diberi nomor halaman i. kata pengantar 
+ini ditulis dalam bahasa format demikian juga dengan nama – nama yang tercantum 
+dalam halaman ini. 
+Halaman Daftar Isi Halaman ini memuat daftar isi memuat semua bagian dalam laporan KP yang 
+bersangkutan dan diberi nomor halaman dengan melanjutkan penomoran halaman 
+sebelumnya. 
+ Daftar ini termasuk urutan BAB dan sub – bab termasuk nomor halamannya. 
+ Judul bab ditulis dengan huruf kapital, sedangkan subbab ditulis dengan huruf 
+kecil kecuali huruf pertama dari setiap kata dengan huruf kapital. 
+Halaman Daftar Gambar Daftar gambar memuat 
+ Nomor urut gambar 
+ Judul gambar 
+ Nomor halaman, nomor ini ditulis dengan dua angka yang dipisahkan dengan 
+titik. Angka pertama menunjukkan nomor bab tempat gambar tersebut berada, 
+sedangkan angka kedua menunjukkan nomor urut gambar tersebut dalam bab 
+bersangkutan. 
+ Penomoran halaman ini melanjutkkan  penomoran halaman sebelumnya 
+dengan menggunakan huruf kecil romawi 
+Halaman Daftar Tabel Penulisan daftar tabel memuat 
+ Nomor urut tabel 
+ Judul tabel, dan 
+ penomoran halaman ini melanjutkan penomoran halaman sebelumnya 
+menggunakan huruf kecil romawi. 
+Daftar Arti Lambang, 
+Singkatan, dan Istilah 
+Pada daftar ini memuat arti lambang, singkatan, dan istilah yang digunakan dalam 
+laporan kegiatan yang bersangkutan. 
+ Daftar notasi dikelompokkan secara alafabetis huruf latin (huruf kapital ditulis 
+seluruhnya terlebih dahulu yang diikuti dengan huruf kecil) kemudian 
+dilanjutkkan dengan alafabetis huruf Yunani. 
+ Singkatan dituliskan setelah daftar notasi dengan urutan seperti dalam daftar 
+notasi. 
+ Penomoran halaman ini melanjutkan penomoran halaman sebelumnya 
+dengan menggunakan huruf kecil Romawi. 
+Halaman Daftar Lampiran Daftar lampiran memuat 
+• Nomor urut lampiran, 
+• Judul lampiran, dan 
+• nomor halaman dimana lampiran tersebur dimuat. 
+--- Page 25 ---
+17 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+Penjelasan Bagian II 
+BAB I PENDAHULUAN 
+(Perusahaan Lokasi Kerja KP) 
+a. Gambaran Umum • Pada subbab ini diuraikan gambar umum dari perusahaan atau instansi tempat 
+melakukan kegiatan. 
+• Hal yang perlu dikemukakan pada gambaran umum ini adalah sejarah dan 
+perkembangan perusahaan, lokasi perusahaan, dan visi misi perusahaan. 
+b. Gambaran khusus 
+(topik kerja KP) 
+Pada subbab ini diuraikan secara lengkap mengenai topik yang akan dibahas pada 
+laporan, analisis masalah, dan hal yang menarik yang dijumpai selama proses 
+kegiatan juga dimasukkan secara garis besar. 
+c. Struktur Organisasi • Pada subbab ini duraikan secara lengkap mengenai struktur organisasi 
+perusahaan tempat melakukan kegiatan. 
+• Hendaknya dilengkapi dengan bagan struktur dan penjelasan masing – 
+masing bagian termasuk tugas dan wewenang 
+d. Tujuan Pada bagian ini mengemukakan tujuan yang hendak dicapai melalui topik masalah 
+yang dipilih 
+e. Ruang Lingkup • Ruang lingkup adalah batasan dari pembahasan pada topik kegiatan. 
+• Dari keseluruhan kegiatan yang dilakukan, kemudian diperoleh satu topik yang 
+menarik untuk dibahas untuk diuraikan di pembahasan. 
+• Hal – hal yang tidak dibahas agar diuraikan pada bagian ini. 
+BAB II TINJAUAN 
+PUSTAKA 
+• Tinjauan pustaka memuat uraian yang sistematika dan relevan dengan topik 
+/masalah yang dibahas pada laporan kegiatan. 
+• Teori dan kosep dasar penunjang topik yang akan diuraikan dalam laporan 
+kegiatan. 
+• Teori yang digunakan sebaiknya diambil dari sumber asli dengan 
+mencantumkan nama sumbernya. 
+• Cara pengutipan kalimat harus mengikuti kaidah -kaidah penulisan ilmiah. 
+• Tata cara penulisan kepustakaan harus sesuai dengan ketentuan pada 
+panduan yang digunakan. 
+BAB III PEMBAHASAN a. Pada bab ini memuat inti pembahasan sesuai dengan topik /masalah yang 
+ditemukan di perusahaan /industri. 
+b. Bagian ini menunjukkan tingkat pengetahuan penulis, kedalaman kegiatan 
+yang dilakukan dan kemampuan penulis dalam mendalami topik/masalah 
+yang dibahas pada laporan. 
+c. Bagian ini menunjukkan rancangan penyelesaian atau solusi dari masalah 
+yang dibahas pada laporan 
+d. Pembahasan sekurang -kurangnya mencakup hal – hal sebagai berikut : 
+• Penjelasan mengenai semua kegiatan yang diikuti selama melakukan 
+KP. 
+• Setiap unit kegiatan yang diikuti harus dicantumkan dalam uraian tentang 
+cara – cara pekerjaan dilakukan, diselesaikan untuk melihat prestasi 
+kerja dalam waktu tertentu, dan lain – lain 
+• Pembahasan harus diintegrasikan dengan teori, sehingga mahasiswa 
+mengetahui perbandingan teori dengan hal – hal yang ditemukan di 
+lapangan 
+• Sebaiknya diberikan penjelasan bagaimana perbedaan -perbedaan ini 
+bisa terjadi 
+• Rancangan/Ide penyelesaian atau solusi yang diberikan untuk 
+menyelesaikan masalah yang dibahas pada laporan. 
+Dalam bab ini dilengkapi dengan sub bab tentang analisis dan tanggapan penulis 
+terhadap hasil pemantauan langsung yang meliputi 
+- Aspek teknis pelaksanaan. 
+- Aspek m anajemen yang membuat keterkaitan antara teori di kampus 
+dengan kenyataan dunia industri 
+--- Page 26 ---
+18 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ Aspek teknis berisikan analisis dan tanggapan terhadap kenyataan dalam 
+pelaksanaan dan hubungannya dengan teori/ilmu yang diperoleh di perkuliahan. 
+Pemahaman terhadap keterbatasan dari pembahasan yang dilakukan sehingga 
+dapat memberikan saran bagi kegiatan KP lainnya. 
+BAB IV PENUTUP Kesimpulan 
+• Simpulan merupakan intisari dari hasil melakukan KP melalui topik /masalah 
+yang dibahas. 
+• Simpulan harus dibuat berdasarkan data yang diperoleh di lapangan dan 
+bukan dari tinjauan pustaka atau hasil kerja praktek lainnya 
+• Kesimpulan dikaitkan dengan hasil pekerjaan yang diikuti dan analisis yang 
+dilakukan dalam bab pembahasan 
+ 
+Saran 
+• Pada bagian ini dimuat saran -saran pengembangan pembahasan atau 
+pengembangan topik laporan kegiatan. 
+• Saran – saran diberikan mengarah dengan ke usaha perbaikan sistem yang 
+nyata berjalan selama diamati di lapangan. Saran – saran harus benar 
+berguna untuk dapat diikuti oleh pihak lain. 
+Penjelasan Bagian III 
+Daftar Pustaka Daftar pustaka memuat pustaka atau referensi yang diacu dalam penelitian dan 
+disusun ke bawah menurut abjad nama akhir penulis pertama sesuai kutipan. 
+a. Bagian ini memuat referensi atau asal kutipan yang ada pada bagian awal dan 
+bagian inti dari laporan kegiatan. Daftar pustaka disusun menurut abjad 
+dengan spasi 1.5 
+b. Penulisan diawali dari nama pengarah, tahun terbit, judul, penerbit dan tempat 
+penerbit 
+c. Baris pertama dituliskan tepat garis tepi kiri dan barus kdua dan ketika 
+dituliskan geser ke kanan 1 cm 
+d. Daftar pustaka berasal dari buku/modul, jurnal/paper, skripsi atau internet dan 
+sumber lainnya. 
+Lampiran Lampiran digunakan untuk menempatkan data atau keterangan lain yang berfungsi 
+untuk melengkapi uraian yang telah disajikan dalam bagian utama. Lampiran 
+merupakan bagian yang memuat keterangan atau data tambahan. Hal yang perlu 
+dimuat pada lampiran adalah 
+a. Gambar – gambar /flow chart setiap kegiatan /pr oses yang diikuti (digambar 
+langsung oleh mahasiswa /data dari industri ) 
+b. Foto pelaksanaan setiap jenis kegiatan yang dilaksanakan 
+c. Catatan kegiatan hari kerja, ditulis tangan (tidak boleh diketik). Minimal terdiri 
+atas hal hal berikut : 
+• Tanggal dan waktu Kegiatan 
+• Tanda Tangan pembimbing di perusahaan /Industri setiap hari kegiatan. 
+Mahasiswa yang tidak menyerahkan lembar kegiatan sesuai ketentuan 
+akan diberikan sanksi oleh program studi. 
+• Curriculum Vitae (CV) pembimbing lapangan. 
+• SK Pembimbing 
+• Surat tanda terima untuk melakukan kegiatan di perusahan /industri 
+• Data – data lapangan yang didapatkan 
+--- Page 27 ---
+19 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB VI PETUNJUK PENYUSUNAN LAPORAN  
+ 
+A. Petunjuk Umum 
+Proposal atau laporan harus disusun dalam bahasa indonesia  yang baik 
+dengan memperhatikan ketentuan tata bahasa dan ejaan yang berlaku, 
+termasuk kecermatan dalam penggunaan tanda baca. Kata sambung dan 
+kata depan misalnya, tidak lazim digunakan untuk mengawali suatu kalimat. 
+Kalimat – kalimat sebaiknya dibuat pasif, tanpa menonjolkan kata ganti orang 
+(saya, dia, dan sebagainya) kata ganti pertama (saya) apabila diperlukan 
+(misalnya dalam kata pengantar), ganti dengan kata penulis. Beberapa 
+ketentuan penting dalam penulis, laporan Kerja Praktik ditulis dengan bahan 
+sebagai berikut: 
+1. Kertas HVS 70 gr ukuran kwarto atau A4 (warna putih, pengecualian bila 
+diperlukan kertas khusus untuk gambar, grafik dan diagram atau 
+dokumen tertentu dari industri). 
+2. Dijilid soft cover dilaminasi dengan sampul kertas buffalo warna biru. 
+3. Diantara setiap Bab diberi pembatas berlogo UIN Imam Bonjol Padang 
+B. Aturan Pengetikan 
+1. Jenis Huruf 
+Naskah laporan diketik dengan huruf yang digunakan Times New Roman 
+ukuran 12 point . Untuk pengolah kata yang lain dapat dilakukan 
+penyesuaian. Huruf miring (italic) atau huruf khusus lain digunakan untuk 
+tujuan tertentu misalnya untuk menandai istilah asing dan daerah. Huruf 
+tebal (bold) untuk menegaskan istilah tertentu dan untuk menuliskan bab 
+dan sub bab. 
+2. Jarak Baris 
+Jarak antar baris atau spasi adalah 
+a. Jarak antara dua bari dibuat 1.5 spasi. 
+b. Satu spasi untuk inti sari, kutipan dengan panjang lebih dari 5 baris, 
+judul tabel, daftar tabel, daftar gambar, nama gambar daftar 
+lampiran, daftar isi, dan daftar pustaka. 
+3. Batas Tepi 
+Batas tepi (margin) pengetikan pada kertas adalah 
+a. Tepi atas dan tepi kiri adalah 4 cm 
+b. Tepi bawah dan tepi kanan adalah 3 cm 
+c. Untuk suatu paragraph baru diketik 5 ketukan atau satu tab tepi kiri 
+4. Pengisian Ruangan 
+Ruangan yang terdapat pada halaman naskah harus diisi penuh,  artinya 
+pengetikan harus dimulai dari batas tepi kiri sampai batas tepi kanan dan 
+jangan sampai ada ruangan yang terbuang kecuali alenia baru, 
+persamaan daftar, gambar, judul, atau hal – hal yang khusus. 
+5. Alinea Baru 
+Alinea Baru dimulai pada ketukan yang ke 5 dari batas tepi kiri ketikan 
+6. Permulaan Kalimat 
+--- Page 28 ---
+20 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Bilangan, lambang, atau rumus yang mengawali suatu kalimat harus di 
+eja, misalnya : sepuluh buah router. 
+7. Judul, Sub Judul, Anak Sub Judul, dan lain – lain 
+a. Judul harus ditulis seluruhnya dengan hruf  besar, diketik tebal dan 
+diatur supaya simetris, dengan jarak 4 cm dari tepi atas tanpa diakhir 
+dengan titik 
+b. Sub Judul diketik seperti alinea baru, semua kata diawali dengan 
+huruf besar, kecuali kata penghubung dan kata depan, semua diketik 
+tebal tanpa diakhir dengan titik. Kalimat pertama sesudah sub judul 
+dimulai dengan alinea baru. 
+c. Anak sub judul diketik mulai dari batas tepi kiri dan diketik tebal, 
+hanya kata pertama diawali huruf besar tanpa diakhir dengan titik. 
+Kalimat pertama sesudah anak sub judul dimulai dengan alinea baru. 
+8. Rincian ke bawah 
+Jika pada penulisan naskah ada rincian yang harus disusun ke bawah, 
+dapat digunakan urutan dengan angka atau sesuai dengan derajat 
+rincian. Penggunakan tanda hubung ( -) yang ditempatkan di depan 
+rincian tidak dibenarkan. 
+9. Letak simetris 
+Gambar, persamaan dan judul diletakkan simetris terhadap tepi kiri dan 
+kanan pengetikan. 
+10. Bilangan dan satuan 
+a. Bilangan harus diketik dengan angka misalnya 10g bahan, kecuali 
+pada permulaan kalimat, angka harus dieja, sepuluh gram bahan. 
+b. Bilangan desimal ditandai dengan koma, bukan titik, misalnya berat 
+laptop 2,5kg. 
+11. Penomoran 
+a. Halaman 
+1) Bagian awal laporan 
+Bagian awal laporan dimulai dari halaman judul sampai dengan 
+daftar lampiran diberi nomor halaman dengan angka romawi 
+kecil : i, ii, iii, iv, v dan seterusnya yang ditulis ditengah bagian 
+bawah halaman. 
+2) Bagian isi laporan 
+Bagian isi laporan dimulai dari BAB I PENDAHULUAN sampai 
+dengan DAFTAR PUSTAKA diberi nomor halaman dengan 
+menggunakan angka: 1, 2, 3, 4 dan seterusnya ditulis kan pada 
+tepi kanan atas, kecuali untuk halaman yang mengandung Judul 
+Bab ditulis pada tengah halaman bagian bawah. 
+3) Bagian Akhir Laporan 
+Bagian akhir laporan tediri  dari lampiran diberi nomor halaman 
+dengan menggunakan huruf dan angka: A – 1, A – 2, B – 2, C – 
+3, D – 4 dan seterusnya dituliskan pada tengah halaman bagian 
+bawah. 
+b. Bab dan Sub Bab 
+--- Page 29 ---
+21 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Jika suatu Bab atau Sub Bab dipecah menjadi Sub Bab – sub bab 
+berikutnya dan seterusnya. 
+1) Angka romawi besar untuk BAB 
+2) Kombinasi angka Arab untuk Sub Bab – sub bab berikutnya dan 
+seterusnya Contoh: 
+BAB I PENDAHULUAN 
+1.1 Latar Belakang 
+1.1.1 Sejarah Perusahaan dst. 
+c. Tabel dan Gambar 
+Penomoran Tabel dan Gambar menggunakan kombinasi angka arab 
+yang dipisahkan oleh titik. Angka dibagian depan menunjukkan Bab 
+dan yang dibelakang adalah nomor urut tabel atau gambar tersebut 
+dalam Bab. 
+Contoh 
+Gambar 3.5 Struktur Organisasi 
+Artinya gambar tersebut ada di Bab 3 dan gambar urutan kelima 
+dalam Bab 3 
+d. Persamaan 
+Penomoran persamaan menggunakan kombinasi angka arab seperti 
+pada penomoran Gambar dan Tabel dan dituliskan dalam tanda 
+kurung () di belakang persamaan dekat batas tepi kanan 
+Contoh: 
+𝑓(𝑓) = 𝑓4 − 𝑓2 + 4 ....................................................................(1.1) 
+12. Ilustrasi 
+Tata cara penulisan ilustrasi (tabel, gambar) adalah: 
+a. Gambar 
+1) Bagan grafik,peta, dan foto semuanya disebut gambar (tidak 
+dibedakan). 
+2) Judul gambar ditempatkan simetris di tengah bawah gambar 
+tanpa diakhir dengan titik dan didahului kata Gambar. 
+3) Keterangan gambar dituliskan pada tempat – tempat yang 
+lowong di dalam gambar dan jangan pada halaman lain. 
+4) Sumber gambar harus disebutkan setelah judul Gambar. 
+b. Tabel 
+1) Judul Tabel ditempatkan simetris di tengah tabel didahului kata 
+Tabel, Judul tabel diletakkan diatas tabel. 
+2) Tabel tidak boleh dipenggal kecuali kalau tidak mungkin diketik 
+dalam satu halaman. Pada halaman lanjutan tabel dicantumkan 
+nomor tabel dan ditulis kata (lanjutan) tanpa judul, misalnya 
+karena tidak muat pada satu halaman penuh. 
+3) Tabel diketik simetris (ditengah) dengan huruf standar Time New 
+Roman bold dan 11 point. 
+4) Tabel yang lebih dari 2 halaman atau yang harus dilipat, 
+ditempatkan pada lampiran. 
+5) Sumber tabel dituliskan disebelah kiri bawah tabel. 
+--- Page 30 ---
+22 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+13. Kebahasaan 
+a. Laporan ditulis dengan menggunakan Bahasa Indonesia baku, 
+sesuai dengan ejaan bahasan Indonesia yang disempurnakan. 
+b. Sedapat mungkin menggunakan istilah yang telah di Indonesiakan 
+jika menggunakan istilah asing harus diberikang tanda khusus 
+misalnya dicetak miring. 
+c. Kalimat dalam laporan sebaiknya tidak terdapat /menggunakan  kata 
+ganti orang, misalnya Saya, kami, dan sebagainya 
+d. Gelar keserjanaan dan gelar lainnya, tidak boleh dicantumkan dalam 
+penulisan nama, kecuali dalam ucapan terima kasih, pembimbing 
+dan penguji serta pengesahan oleh pejabat berwenang. 
+14. Kutipan 
+Beberapa aturan dalam membuat kutipan adalah 
+a. Kutipan harus sama dengan aslinya baik susunan kata, ejaan 
+amupun tanda baca. 
+b. Penulisan nama pengarah yang tulisannya dikutip hanyalah nama 
+belakangnya. Jika nama pengarah ditulis sebelum kutipan maka 
+penulisannya adalah nama belakang pengarang diikuti dalam kurung 
+tahun titik dua halaman. Jika nama pengarang ditulis setelah kutipan 
+maka cara penulisannya adalah dalam kurung nama belakang koma 
+tahun titik dua halaman 
+15. Kepustakaan 
+Penulisan daftar pustaka mengikuti aturan sebagai berikut: 
+a. Nama penulis ditulis mulai dari nama belakang /keluaraga diikuti 
+dengan tanda koma kemudian nama depan 
+b. Daftar pustaka diurut berdasarkan abjad 
+c. Jika penulisnya 3 orang atau lebih, maka hanya dituliskan nama 
+orang pertama diikuti dengan et al atau dkk 
+d. Sumber buku, maka cara penulisnya adalah Nama belakang penulis, 
+nama depan (dapat disingkat), tahun terbit. Judul buku dicetak miring 
+atau garis bawah. Kota: Penerbit. 
+e. Sumber Jurnal, maka penulisannya Nama belakang, nama depan 
+(dapat disingkat). Tahun penerbitan. Judul Artikel (ditulis dalam 
+tanda petik “”). Judul jurnal dicetak miring. Nomor volume diikuti 
+nomor penerbitan dalam tanda kurung, nomor halaman. 
+f. Sumbernya berupa Laporan, Skripsi, Tesis atau Disertasi, maka 
+penulisannya adalah Nama belakang penulis, nama depan (dapat 
+disingkat) Tahun Terbit, Judul Karya tidak dicetak miring atau garis 
+bawah. Lembaga: tuliskan Laporan /Skripsi/Tesis/Disertasi tidak 
+diterbitkan. 
+g. Sumbernya dari internet, maka penulisannnya adalah Nama 
+belakang penulis, nama depan (dapat disingkat). Tahun. Judul Karya 
+tidak dicetak miring atau garus bawah (jenis medium). Tersedia: 
+alamat di internet [tanggal akses] 
+--- Page 31 ---
+23 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB VII PENILAIAN 
+ 
+A. Tujuan 
+Penilaian adalah proses mengukur kualitas pelaksanaan kegiatan, penilaian 
+ditujukan dalam melaksanakan kewajiban akademik dan administrasi selama 
+melaksanakan program Kerja Praktik. Tujuan penilaian adalah untuk 
+memberikan angka prestasi sesuai kualitas pelaksanakan kegiatan. 
+B. Sasaran Penilaian 
+Sasaran penilaian mencakup: 
+1. Kemampuan mahasiswa melaksanakan tugas praktek di perusahaan 
+/industri. 
+2. Kemampuan mahasiswa mengkooordinasikan Kerja Praktik yang 
+diperoleh di Perusahaan, Industri atau Instansi secara tertulis dan 
+sistematis. 
+3. Menggali aspek teknis yang dikuasai mahasiswa setelah kegiatan Kerja 
+Praktik. 
+4. Menjadikan penilaian yang diberikan oleh industri sebagai salah satu 
+acuan. 
+5. Menilai aspek teknis yang dicapai mahasiswa setelah kegiatan Kerja 
+Praktik. 
+Mahasiswa yang sedang melaksanakan Kerja Praktik akan mendapatkan 
+penilaian sebagai berikut : 
+1. Penilaian Kerja Praktik dilakukan oleh pembimbing lapangan, bobot, 
+penilaian terdiri dari unsur inovasi, kerjasama, kedisiplinan, dan keahlian 
+dalam mengerjakan tugas. 
+2. Penilaian laporan Kerja Praktik oleh tim program studi yang terdiri dari 
+dosen pembimbing dan penguji dalam seminar laporan 
+C. Bidang yang Dinilai 
+Pembimbing lapangan (supervisor) menilai kemampuan mahasiswa dalam 
+melaksanakan tugas praktek di perusahaan atau industry. Sedangkan dosen 
+pembimbing dan penguji dari Program Studi menilai kemampuan mahasiswa 
+dalam mengkomunikasikan Kerja Praktik yang diperoleh dalam bentuk 
+laporan tertulis dan dipresentasikan dalam seminar. 
+D. Aspek yang Dinilai dan Pelaksanaan 
+Penilaian pelaksanaan program kegiatan Kerja Praktik yaitu 
+1. Kegiatan /aktivitas mahasiswa di Perusahaan, Industri atau Instansi yang 
+dinilai oleh dosen pembimbing industri. Hal yang dinilai dari mahasiswa. 
+a. Kepatuhan untuk mengikuti atau melaksanakan seluruh kegiatan 
+mulai dari persiapan sampai pada kegiatan akhir. 
+b. Kesungguhan dalam melaksanakan tugas – tugas dengan baik dan 
+penuh tanggung jawab. 
+--- Page 32 ---
+24 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+c. Tingkat keberhasilan mahasiswa dalam melaksanakan tugas – tugas 
+yang diberikan oleh pimpinan Unit kerja atau Supervisor setempat 
+dimana mahasiswa ditempat. 
+d. Keberhasilan menghasilkan buah pikiran atau hasil karya berguna 
+bagi perusahaan /industri yang bersangkutan dan kegiatan akademik 
+di kampus. 
+2. Adapun aspek – aspek yang dinilai dalam kegiatan Kerja Praktik 
+a. Kedisiplinan yaitu ketaatan kepada peraturan atau ketentuan yang 
+telah ditetapkan o leh instansi dimana mahasiswa menjalankan 
+kegiatan. 
+b. Kerajinan yaitu kemampuan untuk bekerja serta keahlian di tempat 
+tugas dan diskusi atau pada waktunya. 
+c. Ketekunan /keuletan yaitu kemampuan mahasiswa dalam 
+berusahan untuk menyelesaikan tugas -tugasnya. 
+d. Kejujuran yaitu kesediaan mahasiswa mengikuti seluruh jadwal 
+kegiatan dan melaporkan sebagaimana yang dijadwalkan 
+e. Inisiatif yang merupakan kesanggupan mahasiswa menyelesaikan 
+masalah serta keberhasilan dalam mengatasi masalah 
+f. Diskusi yaitu kesediaan mahasis wa berkorban atau memberikan 
+bantuan tanpa mengharapkan imbalan atau balasan mensukseskan 
+Program dan studi lapangan. 
+3. Laporan KP yang dinilai dari tim prodi dengan aspek yang dinilai adalah 
+a. Relevansi dan keluasan sumber pustaka dengan persoalan kajian 
+b. Kelengkapan data 
+c. Pembahasan sesuai persoalan 
+d. Kesimpulan sesuai tujuan 
+E. Mengulang Kerja Praktik 
+Status mengulang dapat dikenakan kepada mahasiswa apabila kedapatan 
+tidak melaksanakan kegiatan di lokasi kegiatan sesuai ketentuan (misalnya 
+tidak menyelesaikan kegiatan pada waktu yang ditetapkan, terlibat 
+pelanggaran disiplin dan sebagainya), melakukan tindakan yang tidak 
+dibenarkan dari segi akademik dalam penyusunan laporan Kerja Praktik, 
+seperti plagiat atau pemalsuan dokumen. Mahasiswa yang bersangkutan 
+diberikan sanksi dapat berupa pembatalan proses Kerja Praktik yang telah 
+dilakukan oleh mahasiswa tersebut dan diwajibkan untuk mengulang 
+pelaksanaan Kerja Praktik pada semester berikutnya. 
+--- Page 33 ---
+25 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+BAB VIII KETENTUAN LAIN – LAIN 
+ 
+A. Format Laporan 
+Laporan harus diketik rapi dan dicetak diatas kertas ukuran A4 serta 
+dijilid soft cover. 
+Laporan kegiatan berbentuk hard copy dan /atau soft copy. Penjilidan 
+dan penyerahan Laporan dilakukan setelah dinyatakan lulus seminar 
+laporan. Laporan dijilid dengan mema kai sampul jenis soft cover. Pada 
+punggung Laporan dicetak identifikasi berupa nama, nomor pokok, judul 
+Laporan secara memanjang dari atas ke bawah, tahun selesai secara 
+melintang, dan logo UIN Imam Bonjol Padang. Bentuk dan warna huruf pada 
+bagian ini adalah sama seperti pada sampul dengan Setiap pergantian Bab 
+diberi kertas pembatas tipis berwarna yang disesuaikan dan diberi logo UIN 
+Imam Bonjol Padang. Penyerahan laporan dalam bentuk CD (soft copy) 
+sampul CD harus meliputi seluruh keterangan yang ada dal am sampul 
+laporan Kerja Praktik. Label CD harus meliputi judul Laporan, nama dan NIM 
+mahasiswa, serta nama pembimbing. Isi laporan dalam CD merupakan versi 
+terakhir dan lengkap yang disetujui pembimbing dalam format pdf. 
+B. Jumlah Laporan 
+Laporan dibuat sekitar 3 eksamplar dengan perincian: 
+1. 1 Eksamplar untuk dosen pembimbing 
+2. 1 Eksamplar untuk perusahaan/ dosen pembimbing lapangan 
+3. 1 Eksamplar untuk arsip program studi 
+4. 1 Eksamplar untuk mahasiswa 
+--- Page 34 ---
+26 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Oleh: 
+ 
+NAMA MAHASISWA 
+NIM 
+Lampiran 1. Contoh Cover Proposal Kerja Praktik 
+ 
+ 
+PROPOSAL KERJA PRAKTIK 
+JUDUL KP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM STUDI XXXXXXX 
+FAKULTAS SAINS DAN TEKNOLOGI 
+UIN IMAM BONJOL PADANG 
+2022 
+
+--- Page 35 ---
+27 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+NAMA MAHASISWA 
+NIM 
+Lampiran 2. Contoh Cover Laporan KP 
+ 
+LAPORAN KERJA PRAKTIK 
+JUDUL LAPORAN KP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oleh: 
+ 
+ 
+ 
+ 
+PROGRAM STUDI XXXXXXX 
+FAKULTAS SAINS DAN TEKNOLOGI 
+UIN IMAM BONJOL PADANG 
+2022 
+
+--- Page 36 ---
+28 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Lampiran 3. Lembaran Pengesahan Poposal 
+ 
+ 
+HALAMAN PENGESAHAN 
+ 
+ 
+Padang,  September 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disahkan, 
+Dosen Pembimbing 
+ 
+ 
+ 
+ 
+ 
+Nama Dosen Pembimbing 
+NIP……………… 
+Ketua Program Studi Sistem Informasi 
+ 
+ 
+ 
+ 
+ 
+Nama Kaprodi 
+NIP. ……………………. 
+--- Page 37 ---
+29 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+Lampiran 4 Lembaran Pengesahan Laporan 
+ 
+ 
+HALAMAN PENGESAHAN 
+Laporan ini Disusun untuk Memenuhi Penyelesaian Kerja Praktik Prodi XXXXX – 
+Fakultas Sains dan Teknologi – Universitas Islam Negeri Imam Bonjol Padang 
+Semester ……………… 
+ 
+ 
+ 
+ 
+Oleh 
+NAMA MAHASISWA 
+NIM 
+Program Studi XXXXXX 
+ 
+Diperiksa dan Disahkan Oleh: 
+Dosen Pembimbing 
+ 
+ 
+Nama Kaprodi 
+NIP……………………….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lampiran 5 Form Bimbingan 
+Nama Dosen Pembimbing 
+NIP………………………… 
+Ketua Program Studi 
+--- Page 38 ---
+30 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+ 
+CATATAN KONSULTASI DENGAN DOSEN PEMBIMBING 
+ 
+ 
+ 
+Nama : 
+NIM : 
+Fakultas : 
+Program Studi : 
+Tempat Kerja Praktik : 
+Jadwal Pelaksanaan Kerja Praktik : 
+Nama Dosen Pembimbing : 
+ 
+ 
+No Tanggal Topik/ Masalah yang Dibahas Saran Perbaikan Paraf 
+Dosen 
+     
+     
+     
+     
+     
+ 
+Diketahui Oleh, 
+Dosen Pembiming 
+ 
+ 
+Nama 
+NIP. 
+ 
+Lampiran 6 Daftar Hadir Kegiatan Harian 
+--- Page 39 ---
+31 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+CATATAN KONSULTASI DENGAN SUPERVISOR 
+ 
+Nama : 
+NIM : 
+Fakultas : 
+Program Studi : 
+Tempat Kerja Praktik : 
+Jadwal Pelaksanaan Kerja Praktik : 
+Nama Dosen Pembimbing : 
+ 
+ 
+No Tanggal Pekerjaan yang Dilakukan Paraf 
+Supervisor 
+    
+    
+    
+    
+    
+ 
+Diketahui Oleh, 
+Supervisor 
+ 
+ 
+Nama 
+NIP 
+--- Page 40 ---
+32 
+Fakultas Sains dan Teknologi Pedoman Kerja Praktik 
+ 
+ 
+ 
+ 
+Lampiran 7 Lembaran Nilai 
+ 
+ 
+LEMBARAN PENILAIAN KERJA PRAKTIK 
+PROGRAM STUDI XXXXXX 
+ 
+Nama Mahasiswa/NIM : ............................. / ........................................... 
+Telepon/Email : ............................. / ........................................... 
+ 
+Nama Perusahaan/ Industri/ Instansi : ........................................................................... 
+Alamat : ........................................................................... 
+Telepon : ......................................... 
+Nama Supervisor : ……………………………………………………… 
+Jabatan Supervisor : ........................................................................... 
+ 
+ 
+PENILAIAN 
+DIISI PERUSAHAAN/INDUSTRI/INSTANSI 
+(40%) 
+DIISI PROGERAM STUDI  
+Keterangan DIISI OLEH PEMBIMBING (30%) DIISI OLEH TIM SIDANG (30%) 
+NO URAIAN NILAI NO URAIAN NILAI NO URAIAN NILAI 
+1 Etika dan Kepribadian  1 Etika dan Kepribadian  1 Presentasi dan tanya 
+jawab 
+  
+2 Penguasaan Materi 
+Pekerjaan 
+ 2 Penguasaan Materi 
+Pekerjaan 
+ 2 Isi Laporan   
+3 Kedisiplinan  3 Kedisiplinan  
+4 Kreativitas  4 Laporan : 
+a. Penggunaan bahasa & 
+teknik penulisan 
+b. Log book (hari/jam) 
+c. Referensi dan konsep 
+ 
+5 Kerjasama Tim  
+6 Kemampuan Bahasa  
+7 Kemampuan 
+Penggunaan Teknologi 
+ 
+--- Page 41 ---
+33 
+Fakultas Sains dan Teknologi Pedoman Kerja Praktik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KRITIK DAN SARAN TERHADAP MAHASISWA 
+*Diisi oleh perusahaan/industri/instansi  
+ 
+ 
+ Informasi   d. Kemampuan analisis 
+(pengalaman, hasil kerja, 
+kesesuaian dengan 
+bidang) 
+e. Dokumen 
+pendukung/lampiran 
+     
+Rata-rata Nilai  Rata-rata Nilai  Rata-rata Nilai   
+Pimpinan Perusahaan/Industri/Instansi 
+ 
+ 
+ 
+ 
+(………………………………………) 
+Nama/tandatangan dan Cap 
+ 
+RATA-RATA NILAI KESELURUHAN 
+ 
+…….. 
+Dosen Pembimbing 
+ 
+ 
+(………………………) 
+ 
+NILAI HURUF 
+ 
+…….. 
+Tim Sidang 
+ 
+ 
+(………………………) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ket: 
+85-100 A 55-69 C ≤ 49 E 
+70-84 B 40-54 D  
+--- Page 42 ---
+34 
+Pedoman Kerja Praktik Fakultas Sains dan Teknologi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lampiran 8 Berita Acara Seminar KP 
+ 
+ 
+BERITA ACARA SEMINAR KERJA PRAKTIK 
+ 
+Pada hari ini ……………………tanggal ................................ ......... bulan 
+..………………….. tahun ..................... Mahasiswa yang tesebut dibawah ini telah 
+melaksanakan seminar kera praktik di Program Studi XXXXXX Fakultas Sains dan 
+Teknologi : 
+ 
+Nama : …………………………………………… 
+NIM : …………………………………………… 
+Judul : …………………………………………… 
+: …………………………………………… 
+: …………………………………………… 
+: …………………………………………… 
+Penguji : .…………………………………………... 
+Hasil Ujian : : ………………………………………….. 
+(Angka) 
+ 
+ 
+Padang, …………………. 
+Ketua Seminar, 
+ 
+ 
+ 
+ 
+ 
+Nama ketua seminar 
+NIP……………………….. 
+ 
+Penguji, 
+ 
+ 
+ 
+ 
+ 
+Nama Penguji 
+NIP……………………….. 
+ 
+
+--- Page 43 ---
+ulH ImAwi BONjoL
+PABAIt®
+KEPUTUSAN DERAN FAKULTAS SAINS DAN TEKNOLOGI
+NOMOR 09.a TAHUN 2022
+TENTANG
+PENETAPAN TIM pErvusuN BUKu PEDOMAN KERUA PRAKTIK MAHAslswA
+FAKUIJTAS SAINS DAN TEKNOLOGI
+UNIVERSITAS ISLAM NEGERI IMAM BONJOL PADANG
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+DEKAN FAKUIJTAS SAINS DAN TEKNOLOGI
+Menimbang      : a.   bahwa  untuk  kelancaran  penerbitan  Buku  Pedoman  Kelja
+Praktik    Mahasiswa  Fakultas  Sains  dan  Teknologi,  perlu
+menetapkan Tim Penyusun buku tersebut;
+b.   bahwa  berdasarkan  pertimbangan  sebagaimana  dimaksud
+dalam huruf a, perlu menetapkan Keputusan Dekan tentang
+Tiln   Penyusun  Buku   Kerja   Praktik   Mahasiswa  F`akultas
+Sains dan Teknologi  Universitas  Islam  Negeri  Imam  Bonjol
+Padan8.
+Mengingat         :  1.   Undang-Undang   Nomor   20   tahun   2003   tentang   Sistem
+Pendidikan  Nasional  (I,embaran  Negara  Republik  Indonesia
+Tahun    2003,    Tambahan    Lembaran    Negara    Republik
+Indonesia Nomor 4301);
+2.   Undang-Undang Nomor  12  tahun 2012  tentang Pendidikan
+Tinggi  (I,embaran  Negara  Republik  Indonesia  Tahun  2012
+Nomor 158, Tambahan Lembaran Negara Republik Indonesia
+Nomor 5336);
+3.   Undang-Undang Nomor 5 tahun 2014 tentang Aparatur Sipil
+Negara (Lembaran  Negara Republik Indonesia Tahun 2014,
+Tambahan   Lembaran   Negara   Republik   Indonesia   Nomor
+5494);
+4.   Peraturan   Pemerintah   Nomor   4   Tahun   2014    tentang
+Penyelenggaraan     Pendidikan     Tinggi     dan     Pengelolaan
+Perguruan   Tinggi   (Lembaran   Negara   Republik   Indonesia
+Tahun   2014   Nomor    16,   Tambahan   Lembaran   Negara
+Republik Indonesia Nomor 5500) ;
+5.   Peraturan   Pemerintah   Nomor   17   Tahun   2020   tentang
+Perubahan  afas  Peraturan  Pemerintah  Nomor   11   Tahun
+2017  tentang  Manajemen  Pegawai  Negeri  Sipil  (Lembaran
+Negara Republik Indonesia Tahun 2020 Nomor 6477);
+6.   Peraturan    Presiden    Nomor    35    Tahun    2017    tentang
+Universitas  Islam  Negeri  Imam  Bonjol  Padang  {I+embaran
+Negara Republik lnedonesia Tahun 2017 Nomor 68);
+7.   Peraturan  Menteri  Agama  Nomor  28  Tahun  2017  tentang
+Statuta Universitas Islam Negeri Imam Bonjol Padang {Berita
+Negara Republik Indonesia Tahun 2017 Nomor 1321);
+8.   Peraturan  Menteri  Again.a  Nomor  54  Tahun  2022  tentang
+Perubahan kedua atas Peraturan Menteri Agama Nomor  19
+Tahun 2017 tentang Organisasi dan Tata Kelja Universitas
+Islam  Negeri  Imam  Bonjol  Padang  (Berita  Negara  Republik
+Indonesia Tahun 2022 Nomor 925);
+9.   Peraturan  Menteri  Pendidikan  dan  Kebudayaan  Nomor  3
+Tahun  2020  tentang  Standar  Nasional  Pendidikan  Tinggi
+(Berita Negara Republik Indonesia Tahun 2020 Nomor 47};
+
+--- Page 44 ---
+-2-
+10. Peraturan    Menteri    Keuangan    Nomor    60/PMK.02/2021
+tentang  Standar  Biaya  Masukan  Tahun  Anggaran   2022
+(Berita Negara Republik Indonesia Tahun 2021 Nomor 658);
+11. Keputusan  Menteri  Agama  Nomor  20  Tahun  2014  tentang
+Penunjukan  Kuasa  Pengguna  Anggaran  dan  Pelaksanaan
+Tugas     Kuasa     Pengguna     Anggaran     di     Lingkungan
+Kementerian Agana.
+MEMUTUSRAN;
+Menetapkan      :   KEPUTUSAN  DEKAN  TENTANG  PENETAPAN  TIM  PENYUSUN
+BUKU   PEDOMAN   KERJA   PRAKTIK   MAHASISWA  FAKULTAS
+SAINS  DAN  TEKNOLOGI  UNIVERSITAS  ISLAM  NEGERI  IMAM
+KESATU
+KEDUA
+Tembusan disampaikan Yth:
+BONJOL PADANG
+Menetapkan   Tim   Penyusun   Buku   Pedoman   Kelja   Praktik
+Mahasiswa  Fakultas  Sains  dan  Teknologi  Universitas  Islam
+Negeri  Imam.  Bonjol  Padang  sebagaimana  tercantum  dalam
+lampiran   yang   merupakan   bagian   tidak   telpisahkan   dari
+keputusan ini;
+Keputusan ini mulai berlaku pada tanggal ditetapkan.
+Ditetapkan di Padang
+pada tanggal 25 Maret 2022
+DEKAN FAKULTAS SAINS DAN TEKNOLOGI
+UNIVERSITAS ISLAM NEGERI
+IMAM BONJOL PADANG,
+1.      Sekretaris Jenderal Kementerian Agama Rl di Jakarta;
+2.      Direktorat Jenderal pendidikan Islam Kementerian Agama RI di Jakarta;
+3.      Kepala Kantor wflayah perbendaharaan propinsi sumatera Barat di padang;
+4.      Kepala Biro Administrasi umum, Perencanaan, Keuangan dan Kepquwaian universitas Islam Negeri Imam Bonjol padang;
+5.      Kepala Bagian Perencanaan dan Keuangan Biro Administrasi Umum, Perencanaan, Keuangan dan Kepegawaian Universitas Islam Negeri
+Imam Bonjol Padang.
+
+--- Page 45 ---
+Pengarah
+Penaggung Jawab
+Ketua
+Jin88Ota
+-3-
+LAMPIRAN
+KEPUTU SAN       DERAN       FAKU IJTAS       SAI NS       DAN
+TEKNoroGI
+NOMOR O9.a TAHUN 2022
+TENTANG
+PENETAPAN TIM  PENYUSUN  BUKU  PEDOMAN  KERJA
+PRAKTI K      MAHAS I S WA      F`AKU LTAS       S AI N S      DAN
+TEKNOLOGI          UNIVERSITAS          ISLAM          NEGERI
+IMAM BONJOL PADANG
+Dekan Fakultas Sains dan Teknologi
+Wakil Dekan Bidang Akademik
+Ozay Secio Riza, M.Kom
+Raju Wandira, M. Kom
+Ahmad Fauzi, M.T.I
+Megaorina Fitri, S.. T., M. T
+Afdhil Hafid, M. Eng
+Domi Sepri, M. Kom
+Aulia AIhan, M. Eng
+Muhammad Teguh Brillian, M. T. I
+Novia Lestari, M. Kom
+DERAN FAKUIJTAS SAINS DAN TEKNOLOGI
+UNIVERSITAS ISLAM NEGERI
+IMAM BONJOL PADANG,
+Zi
+E`
+
+--- Page 46 ---
+uf N (tlARE gG«JOL
+PABAttG
+KEPUTUSAN DEKAN FAKULTAS SAINS DAN TEKNOLOGI
+NOMOR 09.b TAHUN 2022
+TENTANG
+BUKU PEDOMAN KERJA PRAKTIK MAHASISWA
+FAKUIJTAS SAINS DAN TEKNOLOGI
+UNIVERSITAS ISLAM NEGERI IMAM BONJOL PADANG
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+BEEN FAKUIJTAS SAINS DAN TEKNOLOGI UIN IMAM BONJOL PADANG,
+Menimbang   :     a.   :#k¥a up:tduokmm=nj=ipakufi:±at:kdany::teTear:i:Ee:uLLLsa=
+Mahasiswa Fakultas Sains dan Teknologi, perlu dibuatkan
+Buku Pedoman Keria Praktik;
+b.    bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam  huruf a,  perlu  menetapkan  Buku  Pedoman  Kelja
+Praktik    Mahasiswa    Fakultas    Sains    dan    Teknologi
+Universitas   Islam   Negeri   Imam   Bonjol   Padang  dengan
+Keputusan Dekan;
+Mengingat     :     1.   ¥±:dg=gr=¥iT:i:i:iN#g°:i2RTeg|uubT±£°[izot::s¥8T=::±d2±g#
+Nomor    158,    Tambahan    Lembaran    Negara    Republik
+Indonesia Nomor 5336) ;
+Undang-Undang  Nomor  5  Tahun  2014  tentang  Aparatur
+Sipil Negara (Lembaran Negara Republik Indonesia Tahun
+2014   Nomor  6,   Tambahan   Lembaran   Negara  Republik
+Indonesia Nomor 5494) ;
+3.    Peraturan   Pemerintah   Nomor   13   Tahun   2015   tentang
+Standar Nasional Pendidikan  (Lembaran  Negara Republik
+Indonesia  Tahun  2015  Nomor  45,  Tambahan  Lembaran
+Negara Republik Indonesia Nomor 5670)
+4.    Peraturan   Pemerintah     Nomor   4  Tahun  2014   tentang
+Penyelenggaraan    Pendidikan    Tinggi    dan    Pengelolaan
+Perguruan  Tinggi  (Lembaran  Negara  Republik  Indonesia
+Tahun   2014   Nomor   16,   Tambahan   Lembaran   Negara
+Republik Indonesia Nomor 5500) ;
+5.    Peraturan   Presiden   Nomor   35   Tahun   2017    tentang
+Universitas  Islam  Negeri  Imam  Bonjol  Padang  (Lembaran
+Negara Republik Indonesia Tahun 2017 Nomor 68);
+6.    Peraturan Menteri Agama Nomor 28 Tahun  2017  tentang
+Statuta  Universitas   Islam   Negeri   Imam   Bonjol   Padang
+(Berita  Negara  Republik  Indonesia  Tahun  2017   Nomor
+1321);
+7.    Peraturan Menteri Agama Nomor 54 Tahun 2022  tentang
+Perubahan kedua atas Peraturan Menteri Agama Nomor 19
+Tahun 2017 tentang Organisasi dan Tata Keria Universitas
+Islam Negeri Imam Bonjol Padang (Berita Negara Republik
+Indonesia Tahun 2022 Nomor 925);
+
+--- Page 47 ---
+-2-
+8.     Peraturan  Menteri  Pendidikan  dan  Kebudayaan  Nomor  3
+Tahun  2020  tentang  Standar  Nasional  Pendidikan Tinggi
+(Berita Negara Republik Indonesia Tahun 2020 Nomor 47);
+9.    Keputusan Menteri Agama Nomor 20 Tahun 2014 tentang
+Penunjukkan Kuasa Pengguna Anggaran dan Pelaksanaan
+Tugas Kuasa Anggaran di Lingkungan Kementerian Agama;
+10.   Keputusan      Direktur      Jenderal      Pendidikan      Islam
+Nomor:Dj/I/255/2007   tentang   Tata   Tertib   Mahasiswa
+Perguruan Tinggi Agama Islaln;
+11.   Keputusan   Direktur  Jenderal   Pendidikan   Islam   Nomor
+4961   Tahun  2016  tentang  Pedoman  Umum  Organisasi
+Kemahasiswaan  pada Perguruan Tinggi Keagamaan Islam;
+12.   Keputusan  Rektor  Universitas  Islam  Negeri  Imam  Bonjol
+Padang Nomor 2654 Tahunn 2020 tentang Buku Pedoman
+Kemahasiswaan   Universitas   Islam   Negeri   Imam   Bonjol
+Padang
+MEMUTUSRAN:
+Menetapkan    :    KEPUTUSAN  DEKAN  TENTANG  PENETAPAN  BUKU  PEDOMAN
+KERJA     PRAKTIK     MAHASISWA     FAKUIJTAS      SAINS      DAN
+TEKNOLOGI   UNIVERSITAS   ISLAM   NEGERI   IMAM   BONJOL
+PADANG.
+KESATU
+KEDUA
+KETIGA
+Buku  Pedoman  Kelja  Praktik  Mahasiswa  Fakultas  Sains  dan
+Teknologi  Universitas Islam Negeri Imam Bonjol Padang adalah
+sebagaimana    tersebut    dalam    lampiran    keputusan    yang
+merupakan bagian tidak teapisahkan dari keputusan ini.
+Buku Pedoman Keria Praktik ini menjadi salah satu acuan yang
+harus  ditaati  dalam  Ken.a  Praktik  Mahasiswa  Fakultas  Sains
+dan Teknologi Universitas Islam Negeri Imam Bonjol Padang
+Keputusan ini mulai berlaku pada tanggal ditetapkan.
+Ditetapkan di Padang
+pada tanggal 25 Maret 2022
+DERAN
+FAKULTAS    SAINS    DAN    TEKNOLOGI
+UNIVERSITAS ISLAM NEGERI
+IMAM BONJOL PADANG,
+prURUS
+Tembusan disampaikan Yth.
+1.     Sekretaris Jenderal Kementerian Agama RI di Jakarta;
+2.     Direktorat Jenderal pendidikan Islam Kementerian Agama RI di Jakarta;
+3.     Rektor universitas Islam Negeri Imam Bonjol padang;
+4`     Kepala Biro Administrasi Akademik Kemahasiswaan dan Keq.asama Universitas Islam Negeri Imam Bonjol Padang;
+5.     Ketua Program Studi F`akultas Sain dan Teknologi Universitas Islam Negeri Imam Bonjol Padang;
